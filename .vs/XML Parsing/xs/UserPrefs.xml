@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6AEA5D20-A388-C321-1E5A-433E77A21DD9}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/XMLParser.cs">
+    <Files>
+      <File FileName="Assets/Scripts/XMLParser.cs" Line="72" Column="29" />
+      <File FileName="Assets/Resources/level1.xml" Line="11" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
